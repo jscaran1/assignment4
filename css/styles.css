@@ -105,19 +105,24 @@ ul li {
     list-style-position: inside;
 }
 
-title {}
 
 
 
 
 
-div {
-    column-count: 2;
+
+
 }
 
-div {}
+
 
 footer {
     text-align: center;
     color: firebrick;
 }
+
+#twocolumn {
+    column-count: 2;
+}
+
+
